@@ -138,6 +138,3 @@ At completion, the repository should demonstrate:
 - An access package with resources, approval and assignment expiration.
 - Documentation and screenshots that explain what was configured and how it was validated.
 
-## 10. Disclaimer
-
-FinTrust Financial Services and all employee identities in this repository are fictional. This project is a lab demonstration and is not a substitute for a production security design, licensing review or change-management process.
