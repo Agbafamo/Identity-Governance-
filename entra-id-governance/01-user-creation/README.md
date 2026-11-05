@@ -36,7 +36,7 @@ The `sample-data/users.csv` file contains:
 
 ```csv
 DisplayName,FirstName,LastName,UserPrincipalName,Department,JobTitle
-John Adebayo,John,Adebayo,john.adebayo@skt42.onmicrosoft.com,IT,IT Administrator
+James Adebayo,James,Adebayo,James.adebayo@skt42.onmicrosoft.com,IT,IT Administrator
 Mary Johnson,Mary,Johnson,mary.johnson@skt42.onmicrosoft.com,Finance,Accountant
 David Okafor,David,Okafor,david.okafor@skt42.onmicrosoft.com,Information Security,Security Analyst
 Grace Williams,Grace,Williams,grace.williams@skt42.onmicrosoft.com,Human Resources,HR Officer
