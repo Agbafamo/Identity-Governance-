@@ -23,7 +23,7 @@ Create the security group:
 | User | Department in sample data | Review decision | Reason |
 |---|---|---|---|
 | Mary Johnson | Finance | Approve | Finance employee |
-| John Adebayo | IT | Deny | Not a member of Finance |
+| James Adebayo | IT | Deny | Not a member of Finance |
 | Grace Williams | Human Resources | Deny | Not a member of Finance |
 
 These are demonstration decisions. In a real review, the reviewer must use verified business information rather than relying only on a department attribute.
@@ -78,7 +78,7 @@ Choose whether to review all users or a specific subset according to the scenari
 3. Open the review from the reviewer experience.
 4. Examine each member and their business need.
 5. Approve Mary Johnson.
-6. Deny John Adebayo and Grace Williams.
+6. Deny James Adebayo and Grace Williams.
 7. Provide meaningful justifications where the review experience supports them.
 8. Submit the decisions.
 
